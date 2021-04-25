@@ -26,7 +26,6 @@ public class Solution5 {
             System.out.println("Минимальный элемент в массиве: " + min);
         }
 
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введте целое число для генерации массива : ");

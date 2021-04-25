@@ -1,6 +1,7 @@
 
 
 public class Solution4 {
+
     private static final int[][] arr = new int[4][4];
 
     public static void main(String[] args) {

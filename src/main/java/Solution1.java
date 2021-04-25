@@ -21,6 +21,7 @@ public class Solution1 {
         System.out.print("Массив в котором заменены 0 на 1, 1 на 0:  " + Arrays.toString(arr));
     }
 
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введте целое число для генерации массива : ");
